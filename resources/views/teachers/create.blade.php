@@ -7,7 +7,7 @@
       
   <form action="{{ url('teachers') }}" method="post">
     {!! csrf_field() !!}
-    <label>Name</label></br>
+    <label>Namee</label></br>
     <input type="text" name="name" id="name" class="form-control"></br>
     <label>Address</label></br>
     <input type="text" name="address" id="address" class="form-control"></br>
