@@ -1,3 +1,3 @@
 <?php
-echo "API is working!";
+echo "api is working!";
 require __DIR__ . "/api/index.php";
